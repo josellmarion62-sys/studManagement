@@ -1,0 +1,2 @@
+# studManagement
+Laravel Activity 
